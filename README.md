@@ -1,6 +1,6 @@
-# Metanthropic Lab - Research Papers
+# Metanthropic - Research Papers
 
-[![Metanthropic Lab](https://img.shields.io/badge/Lab-Metanthropic-black?style=for-the-badge&logo=vercel)](https://metanthropic.vercel.app/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Metanthropic Lab](https://img.shields.io/badge/Lab-Metanthropic-black?style=for-the-badge&logo=vercel)](https://metanthropic.vercel.app/) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](LICENSE)
 
 ## 🔬 Overview
 
@@ -14,15 +14,24 @@ Our goal is to provide accessible, open-source access to our research artifacts,
 
 ### 2025
 
-#### **Dataset Distillation for the Pre-Training Era: Cross-Model Generalization via Linear Gradient Matching**
+#### **Computation and Language (`cs.CL`)**
+
+**1. The Fragility of Guardrails: Cognitive Jamming and Repetition Collapse in Safety-Steered LLMs**
+* **Author:** Ekjot Singh
+* **Abstract:** Investigates the mechanistic underpinnings of safety guardrails in LLMs using Sparse Autoencoders. We identify specific features responsible for "refusal" behaviors and demonstrate "Cognitive Jamming," where over-steering these safety features induces catastrophic "Repetition Collapse," highlighting the brittleness of current alignment paradigms.
+* **Links:** [📄 **Read PDF**](./2025/cs.CL/fragility-of-guardrails.pdf)
+
+#### **Computer Vision (`cs.CV`)**
+
+**1. Dataset Distillation for the Pre-Training Era: Cross-Model Generalization via Linear Gradient Matching**
 * **Author:** Ekjot Singh
 * **Abstract:** Introduces a novel approach to dataset distillation tailored for the pre-training era, focusing on cross-model generalization capabilities through linear gradient matching techniques.
-* **Links:** [📄 **Read PDF**](Dataset_Distillation_for_the_Pre_Training_Era__Cross_Model_Generalization_via_Linear_Gradient_Matching.pdf) | [💻 **Code Repository**](https://github.com/metanthropics/DDPTECMGLGM)
+* **Links:** [📄 **Read PDF**](./2025/cs.CV/dataset-distillation.pdf) | [💻 **Code Repository**](https://github.com/metanthropics/DDPTECMGLGM)
 
-#### **Revisiting AlexNet: Achieving High-Accuracy on CIFAR-10 with Modern Optimization Techniques**
+**2. Revisiting AlexNet: Achieving High-Accuracy on CIFAR-10 with Modern Optimization Techniques**
 * **Author:** Ekjot Singh
 * **Abstract:** We revisit the original AlexNet architecture, adapting it for CIFAR-10 and achieving **95.7% accuracy** by incorporating modern techniques like Batch Normalization, Adam optimizer, and advanced regularization.
-* **Links:** [📄 **Read PDF**](Revisiting_AlexNet__Achieving_High_Accuracy_on_CIFAR_10_with_Modern_Optimization_Techniques.pdf) | [💻 **Code Repository**](https://github.com/metanthropics/revisiting-alexnet)
+* **Links:** [📄 **Read PDF**](./2025/cs.CV/revisiting-alexnet.pdf) | [💻 **Code Repository**](https://github.com/metanthropics/revisiting-alexnet)
 
 ---
 
@@ -42,7 +51,7 @@ Our goal is to provide accessible, open-source access to our research artifacts,
 
 ## ⚖️ License & Citation
 
-The source code, datasets, and technical artifacts in this repository are released under the **MIT License**, permitting reuse with attribution to facilitate open research and collaboration.
+The source code, datasets, and technical artifacts in this repository are released under the **Apache License 2.0**, permitting reuse with attribution while providing explicit patent protection.
 
 Research papers and documentation are provided for academic and educational purposes. If you utilize the methodologies or findings presented herein, please ensure appropriate citation of the respective authors and **Metanthropic Lab**.
 
