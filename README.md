@@ -44,8 +44,10 @@ Our goal is to provide accessible, open-source access to our research artifacts,
 
 ### Founder & Director, Principal Researcher
 **Ekjot Singh**
-* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ekjotsinghmakhija)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekjot-singh-153110268/)
+* **Email:** ekjotmakhija@gmail.com
+* **Website:** https://ekjot.me/
+* **GitHub:** https://github.com/ekjotsinghmakhija
+* **LinkedIn:** https://www.linkedin.com/in/ekjot-singh-153110268/
 
 ---
 
